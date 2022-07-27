@@ -1,11 +1,7 @@
 #!/usr/bin/python3
-"""
-This is a Rectangle class.
-"""
+"""An empty rectangle class"""
 
 
 class Rectangle:
-    """
-    Create an empty Rectangle Object.
-    """
+    """Property retriever, for retreiving"""
     pass
